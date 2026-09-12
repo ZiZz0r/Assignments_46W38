@@ -1,0 +1,9 @@
+name: 46W38
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - matplotlib
+  - scipy
+  - numpy
+prefix: C:\Users\frdyb\anaconda3\envs\46W38
